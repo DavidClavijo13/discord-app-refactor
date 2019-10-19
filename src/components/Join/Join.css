@@ -23,6 +23,7 @@ html, body {
 
 .joinInnerContainer {
   width: 20%;
+  margin-bottom: 10%;
 }
 
 .joinInput {
